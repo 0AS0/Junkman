@@ -1,0 +1,29 @@
+Basic Ideas:
+- 2D game
+- Trash collector
+- Don't let the trash hit you
+- Some trash you don't want
+- There are 20 levels
+- Every 1000 points, the level increments
+- Each time the level is incremented, more trash will be spawned
+- To increase health, there will be health drops spawning every level, but not many
+
+Types of Trash:
+-- Good
+- Paper
+- Cardboard
+- Wood
+- Water Bottles
+- Soda Cans
+- Candy Wrapper
+- Scrap Plastic
+- Scrap Metal
+- Broken Electronics
+ 
+-- Bad
+- Yard trimmings
+- Cigarette Butts
+- Food scraps
+- Broken Glass
+
+MAYBE IN THE FUTURE: Beer Can - adds a nausea effect
